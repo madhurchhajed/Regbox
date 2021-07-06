@@ -7,21 +7,25 @@ Some Screenshots of app:
 
 <p align="center">
   <img src="regbox-screenshots/1.png" >
-
+<br>
   <img src="regbox-screenshots/2.png" >
-  
-  <img src="regbox-screenshots/3.png" >
-  
- <img src="regbox-screenshots/4.png" >
-	
-  <img src="regbox-screenshots/5.png" >
-
+  <br>
+ <img src="regbox-screenshots/3.png" >
+ <br>
+<img src="regbox-screenshots/4.png" >
+<br>
+<img src="regbox-screenshots/5.png" >
+<br>
 <img src="regbox-screenshots/6.png" >
-	
-<img src="regbox-screenshots/7.png" >
-   <img src="regbox-screenshots/8.png" >
-	<img src="regbox-screenshots/9.png" >
+<br>	
+<img src="regbox-screenshots/8.png" >
+<br>
+<img src="regbox-screenshots/9.png" >
+<br>
 <img src="regbox-screenshots/10.png" >
+<br>
+<img src="regbox-screenshots/7.png" >
+<br>
 </p>
 
 
