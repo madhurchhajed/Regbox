@@ -6,24 +6,32 @@ Problem Statement : To create a portal/platform where users can be verified and 
 Some Screenshots of app:
 
 <p align="center">
+	<p align="center"> About Page</p>
   <img src="regbox-screenshots/1.png" >
 <br>
   <img src="regbox-screenshots/2.png" >
   <br>
- <img src="regbox-screenshots/3.png" >
- <br>
+ <p align="center"> Login Page</p>
 <img src="regbox-screenshots/4.png" >
 <br>
+<p align="center"> Home Page</p>
 <img src="regbox-screenshots/5.png" >
 <br>
+<p align="center"> Upload Page</p>
 <img src="regbox-screenshots/6.png" >
 <br>	
+<p align="center"> File Data Page (shows file details and OCR extracted data ) </p>
+<p align="center"> Example on Passport  </p>
 <img src="regbox-screenshots/8.png" >
 <br>
+<p align="center"> Example PAN card </p>
+
 <img src="regbox-screenshots/9.png" >
 <br>
+<p align="center"> Face Comparison Page </p>
 <img src="regbox-screenshots/10.png" >
 <br>
+<p align="center"> Dashboard </p>
 <img src="regbox-screenshots/7.png" >
 <br>
 </p>
